@@ -1,0 +1,16 @@
+body {
+    margin: 0px 50px 0px 50px;
+    padding: 0px 50px 0px 50px;
+    
+}
+
+p.date {
+    color: brown;
+    text-align: right;
+}
+
+div.entry{
+    background-color: gainsboro;
+    margin: 10px 0px 10px 0px;
+    padding: 10px 50px 50px 50px;
+}
