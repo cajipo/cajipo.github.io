@@ -14,3 +14,28 @@ div.entry{
     margin: 10px 0px 10px 0px;
     padding: 10px 50px 50px 50px;
 }
+
+header{
+    width: 100%;
+    position: fixed;
+    left:0px;
+   
+}
+
+header nav{
+    background: orangered;
+    position: absolute;
+    width: 100%;
+    top: 0px;
+  
+
+}
+
+nav ul li{
+    display: inline
+}
+
+nav ul li a{
+    color: yellowgreen;
+    padding:10px
+}
